@@ -1,4 +1,0 @@
-﻿  pch.cpp
-  main.cpp
-e:\github\c++\learn\01-类型安全增强\02-逻辑类型bool\main.cpp(23): warning C4305: “=”: 从“int”到“bool”截断
-  02-逻辑类型bool.vcxproj -> E:\github\C++\Learn\x64\Debug\02-逻辑类型bool.exe

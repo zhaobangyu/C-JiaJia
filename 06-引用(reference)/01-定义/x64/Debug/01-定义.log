@@ -1,6 +1,0 @@
-﻿  main.cpp
-e:\github\c++\learn\06-引用(reference)\01-定义\main.cpp(18): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
-e:\github\c++\learn\06-引用(reference)\01-定义\main.cpp(18): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 1 冲突
-e:\github\c++\learn\06-引用(reference)\01-定义\main.cpp(18): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 2 拥有了类型“int”
-e:\github\c++\learn\06-引用(reference)\01-定义\main.cpp(18): warning C4313: “printf”: 格式字符串中的“%p”与“int”类型的参数 2 冲突
-  01-定义.vcxproj -> E:\github\C++\Learn\x64\Debug\01-定义.exe

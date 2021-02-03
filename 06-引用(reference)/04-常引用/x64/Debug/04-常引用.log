@@ -1,3 +1,0 @@
-﻿  main.cpp
-e:\github\c++\learn\06-引用(reference)\04-常引用\main.cpp(46): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
-  04-常引用.vcxproj -> E:\github\C++\Learn\x64\Debug\04-常引用.exe

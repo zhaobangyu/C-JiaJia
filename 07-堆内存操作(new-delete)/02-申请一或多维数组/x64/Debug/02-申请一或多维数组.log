@@ -1,3 +1,0 @@
-﻿  main.cpp
-e:\github\c++\learn\07-堆内存操作(new-delete)\02-申请一或多维数组\main.cpp(17): warning C4305: “初始化”: 从“double”到“float”截断
-  02-申请一或多维数组.vcxproj -> E:\github\C++\Learn\x64\Debug\02-申请一或多维数组.exe
